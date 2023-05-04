@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://demo.gethugothemes.com/hargo/examplesite/"
-languageCode = "en"
+languageCode = "fr"
 title = "Hargo | Hugo Ecommerce Site"
 theme = "hargo-hugo"
 summaryLength = "20"
@@ -33,12 +33,12 @@ disqusShortname = ""
 [menu]
 
   [[menu.main]]
-  name = "Products"
+  name = "techzone"
   URL = "products/"
   weight = 1
 
   [[menu.main]]
-  name = "Blog"
+  name = "Stories"
   URL = "blog/"
   weight = 2
 
@@ -82,7 +82,7 @@ disqusShortname = ""
 #################### default parameters ################################
 [params]
 logo = "images/logo.png"
-home = "Home"
+home = "Homezone"
 # Meta data
 description = "This is meta description"
 author = "Themefisher"

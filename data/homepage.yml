@@ -1,7 +1,7 @@
 ############################ banner ##########################
 banner:
   enable : true
-  title : "Best Beauty Cream For Your Skin"
+  title : "La meilleure batterie au top pour votre phone"
   content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
           dolore magna aliquyam erat, sed dia"
   image : "images/banner.png"
@@ -18,7 +18,7 @@ banner:
 ########################## About ##############################
 about:
   enable : true
-  title : "About Our Product"
+  title : "A propos de notre produit"
   content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
           dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet
           clita kasd gubergren,"
@@ -28,18 +28,18 @@ about:
 ###################### Call to action ########################
 cta:
   enable : true
-  title : "Buy one Get One Free Taba Cream"
+  title : "Une batterie Taba gratuite à l'achat"
   content : "Available for limited time only. Grab one while you still can!"
   image : "images/cta.png"
   overlayImage : "images/cta-overlay.png"
   button:
-    label : "All Products"
+    label : "Toute la techzone"
     link : "products/"
 
 ######################## raw material #######################
 material:
   enable : true
-  title : "Ingredients Of Our Products"
+  title : "Les composants de nos produits"
   subtitle : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
           dol."
   materialItem:
@@ -66,7 +66,7 @@ material:
 ########################### Advantage #########################
 advantage:
   enable : true
-  title : "Advantages Of Using <br> Our Product"
+  title : "Avantages de l'utilisation de  <br> nos produits"
   subtitle : "Lorem ipsum dolor sit amet, da decal consetetur<br> sadipscing elitr, sed diam nonumya eirmod"
   image : "images/advantage.png"
   advantageList:
@@ -82,11 +82,11 @@ advantage:
 ######################## Promo Video ##########################
 video:
   enable : true
-  title : "How To Use This Product?"
+  title : "Comment utiliser ce produit ?"
   content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
           dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et."
   videoThumb : "images/video-thumb.jpg"
-  videoURL : "https://www.youtube.com/embed/wf4F2-9UXUo"
+  videoURL : "https://www.youtube.com/embed/vzaO0v_W9Zw"
 
 
 ######################## Products #############################
@@ -99,7 +99,7 @@ products:
 ########################## Testimonial ########################
 testimonial:
   enable : true
-  title : "What People Are Saying <br> About Our Product"
+  title : "Ce que les gens disent <br> à propos de notre produit"
   testimonialItem:
     # testimonial item loop
     - name : "Angelo Perara"
