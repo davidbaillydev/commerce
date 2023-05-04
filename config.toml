@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://demo.gethugothemes.com/hargo/examplesite/"
+baseURL = "https://isamzone.netlify.app"
 languageCode = "fr"
 title = "Hargo | Hugo Ecommerce Site"
 theme = "hargo-hugo"
